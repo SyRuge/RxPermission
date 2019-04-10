@@ -36,9 +36,9 @@ dependencies {
 //发布到 Bintray
 publish {
     userOrg = 'ruge'           //bintray.com 注册的用户名
-    groupId = 'com.xcx'   //以后访问 jcenter上此项目的路径，一般和库项目的包名一致
+    groupId = 'com.xyjk'   //以后访问 jcenter上此项目的路径，一般和库项目的包名一致
     artifactId = 'rxpermission'       //bintray.com 创建的 Package 名
-    publishVersion = '1.0.2'         //版本号
+    publishVersion = '1.0.0'         //版本号
     desc = 'my first library' //版本说明，随意
     website = 'https://github.com/SyRuge/RxPermission'    //关于这个开源项目的网站，随意
 }
